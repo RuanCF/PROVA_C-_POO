@@ -2,7 +2,7 @@
  
 Repositório para a prova em C# POO
 
-# 🌈 Integrantes<br>
+# Integrantes<br>
 
 <table>
   <tr>
