@@ -1,0 +1,15 @@
+C:\Users\ruan-\Documents\C#\Prova_POO\PROVA_C#_POO\bin\Debug\net6.0\PROVA_C#_POO.exe
+C:\Users\ruan-\Documents\C#\Prova_POO\PROVA_C#_POO\bin\Debug\net6.0\PROVA_C#_POO.deps.json
+C:\Users\ruan-\Documents\C#\Prova_POO\PROVA_C#_POO\bin\Debug\net6.0\PROVA_C#_POO.runtimeconfig.json
+C:\Users\ruan-\Documents\C#\Prova_POO\PROVA_C#_POO\bin\Debug\net6.0\PROVA_C#_POO.dll
+C:\Users\ruan-\Documents\C#\Prova_POO\PROVA_C#_POO\bin\Debug\net6.0\PROVA_C#_POO.pdb
+C:\Users\ruan-\Documents\C#\Prova_POO\PROVA_C#_POO\obj\Debug\net6.0\PROVA_C#_POO.csproj.AssemblyReference.cache
+C:\Users\ruan-\Documents\C#\Prova_POO\PROVA_C#_POO\obj\Debug\net6.0\PROVA_C#_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruan-\Documents\C#\Prova_POO\PROVA_C#_POO\obj\Debug\net6.0\PROVA_C#_POO.AssemblyInfoInputs.cache
+C:\Users\ruan-\Documents\C#\Prova_POO\PROVA_C#_POO\obj\Debug\net6.0\PROVA_C#_POO.AssemblyInfo.cs
+C:\Users\ruan-\Documents\C#\Prova_POO\PROVA_C#_POO\obj\Debug\net6.0\PROVA_C#_POO.csproj.CoreCompileInputs.cache
+C:\Users\ruan-\Documents\C#\Prova_POO\PROVA_C#_POO\obj\Debug\net6.0\PROVA_C#_POO.dll
+C:\Users\ruan-\Documents\C#\Prova_POO\PROVA_C#_POO\obj\Debug\net6.0\refint\PROVA_C#_POO.dll
+C:\Users\ruan-\Documents\C#\Prova_POO\PROVA_C#_POO\obj\Debug\net6.0\PROVA_C#_POO.pdb
+C:\Users\ruan-\Documents\C#\Prova_POO\PROVA_C#_POO\obj\Debug\net6.0\PROVA_C#_POO.genruntimeconfig.cache
+C:\Users\ruan-\Documents\C#\Prova_POO\PROVA_C#_POO\obj\Debug\net6.0\ref\PROVA_C#_POO.dll
